@@ -1,0 +1,16 @@
+[
+    {
+        "Question": "Good morning",
+        "Answer": "おはよう" 
+    },
+    {
+        "Question": "Good afternoon",
+        "Answer":"こんにちわ"
+    },
+    {
+        "Question": "Good evening",
+        "Answer":  "こんばんは"
+    }
+        
+
+]
